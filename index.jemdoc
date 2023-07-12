@@ -3,7 +3,7 @@
 
 ~~~
 {}{img_left}{bio.jpg}{alt text}{131}{160}{https://github.com/PeiyaoXiao/PeiyaoXiao.github.io/blob/main/bio.jpg}
-Peiyao Xiao
+Peiyao Xiao\n
 PhD students at UB,\n [https://engineering.buffalo.edu/computer-science-engineering.html Computer Science and Engineering], \n[https://www.buffalo.edu University at Buffalo (UB)]\n
 Davis Hall, Buffalo, New York \n 
 Phone: \+1 716-295-3508 \n
@@ -11,13 +11,13 @@ E-mail: /peiyaoxi/ \[@\] buffalo \[DOT\] edu
 ~~~
 
 == About me
-I am a Ph.D. student in the Computer Science and Engineering Department at UB, supervised by [https://cse.buffalo.edu/~kaiyiji/ Dr. Kaiyi Ji]. I got the M.S. degree from King Abdullah University of Science and Technology (KAUST) in 2022. I received the B.S. degree from Southern University of Science and Technology (SUSTech). 
+I am a Ph.D. student in the Computer Science and Engineering Department at UB, supervised by [https://cse.buffalo.edu/~kaiyiji/ Prof. Kaiyi Ji]. I got the M.S. degree from King Abdullah University of Science and Technology (KAUST) in 2022. I received the B.S. degree from Southern University of Science and Technology (SUSTech). 
 
 == Research
 My research interests include 
-- Bilevel Optimisation  
+- Bilevel Optimization  
 - Federated learning
-- Continual learning
+- Multi-objective optimization
 
 [research.html Find out more].
 == Recent Publications 
